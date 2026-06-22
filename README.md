@@ -1,6 +1,6 @@
-# FutureProof AI Digest
+# 🧠 NeuralPulse
 
-An automated AI-powered technology news intelligence platform.
+Autonomous AI Intelligence Platform
 
 ## Features
 
